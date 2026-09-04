@@ -19,8 +19,8 @@ information, and event logging.
 ## OLED Screens
 
 ### Main Menu
-![Main Menu](screenshots/m<img width="581" height="442" alt="image" src="https://github.com/user-attachments/assets/516e7301-ddf9-4fab-bf20-3ed408b5b143" />
-ain-menu.png)
+![Main Menu](<img width="581" height="442" alt="image" src="https://github.com/user-attachments/assets/516e7301-ddf9-4fab-bf20-3ed408b5b143" />
+)
 
 ### Live Data
 ![Live Data](screenshots/live-data.png)
@@ -29,7 +29,8 @@ ain-menu.png)
 ![Sensor Status](screenshots/sensor-status.png)
 
 ### Alarm Status
-![Alarm Status](screenshots/alarm-status.png)
+![Alarm Status](<img width="562" height="460" alt="image" src="https://github.com/user-attachments/assets/01b716e3-4677-4dd1-af74-e7e4b6d2a1a5" />
+)
 
 ### System Information
 ![System Information](screenshots/system-info.png)
