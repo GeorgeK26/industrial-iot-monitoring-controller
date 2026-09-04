@@ -241,35 +241,35 @@ Navigation is provided using three push buttons:
 
 ### Main Menu
 
-![Main Menu](main%20menu.png)
+![Main Menu](main-menu.png)
 
 ### Live Data
 
-![Live Data](live%20data.png)
+![Live Data](live-data.png)
 
 ### Sensor Status
 
-![Sensor Status](sensor%20status.png)
+![Sensor Status](sensor-status.png)
 
 ### Alarm Status
 
-![Alarm Status](alarm%20status.png)
+![Alarm Status](alarm-status.png)
 
 ### Alarm Status — Alarm Activated
 
-![Alarm Activated](alarm%20status%20with%20alarm%20activated.png)
+![Alarm Activated](alarm-status-active.png)
 
 ### System Information
 
-![System Information](system%20info.png)
+![System Information](system-info.png)
 
 ### Event Log
 
-![Event Log](event%20log.png)
+![Event Log](event-log.png)
 
 ### Event Log — Additional View
 
-![Event Log Additional View](event%20log2.png)
+![Event Log Additional View](event-log2.png)
 
 ## Alarm Demonstration
 
