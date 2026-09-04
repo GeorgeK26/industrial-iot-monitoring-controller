@@ -19,7 +19,8 @@ information, and event logging.
 ## OLED Screens
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/m<img width="581" height="442" alt="image" src="https://github.com/user-attachments/assets/516e7301-ddf9-4fab-bf20-3ed408b5b143" />
+ain-menu.png)
 
 ### Live Data
 ![Live Data](screenshots/live-data.png)
