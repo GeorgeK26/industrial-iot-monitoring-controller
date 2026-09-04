@@ -38,7 +38,8 @@ information, and event logging.
 ![System Information](screenshots/system-info.png)
 
 ### Event Log
-![Event Log](screenshots/event-log.png)
+![Event Log](screenshots/event-log.png<img width="667" height="486" alt="image" src="https://github.com/user-attachments/assets/246a4d7b-38f1-49af-b856-427cc1d776de" />
+)
 
 ## Simulation
 
