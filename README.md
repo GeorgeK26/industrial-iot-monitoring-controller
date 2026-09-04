@@ -1,6 +1,6 @@
-# OLED Sensor Monitoring System
+# Industrial Sensor Monitoring System
 
-A microcontroller-based sensor monitoring system simulated in Wokwi,
+A microcontroller-based industrial sensor monitoring system simulated in Wokwi,
 featuring an OLED display, live sensor data, alarm status, system
 information, and event logging.
 
