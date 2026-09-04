@@ -27,7 +27,8 @@ information, and event logging.
 )
 
 ### Sensor Status
-![Sensor Status](screenshots/sensor-status.png)
+![Sensor Status](screenshots/sensor-status.png<img width="520" height="446" alt="image" src="https://github.com/user-attachments/assets/93022286-4bd8-4e5a-bdb2-4c2cdf1e070f" />
+)
 
 ### Alarm Status
 ![Alarm Status](screenshots/alarm-status.png<img width="562" height="460" alt="image" src="https://github.com/user-attachments/assets/01b716e3-4677-4dd1-af74-e7e4b6d2a1a5" />
