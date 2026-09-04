@@ -237,27 +237,39 @@ Navigation is provided using three push buttons:
 * **DOWN**
 * **SELECT**
 
----
-
 ## OLED Screens
 
 ### Main Menu
 
+![Main Menu](main%20menu.png)
+
 ### Live Data
+
+![Live Data](live%20data.png)
 
 ### Sensor Status
 
+![Sensor Status](sensor%20status.png)
+
 ### Alarm Status
+
+![Alarm Status](alarm%20status.png)
 
 ### Alarm Status — Alarm Activated
 
+![Alarm Activated](alarm%20status%20with%20alarm%20activated.png)
+
 ### System Information
+
+![System Information](system%20info.png)
 
 ### Event Log
 
+![Event Log](event%20log.png)
+
 ### Event Log — Additional View
 
----
+![Event Log Additional View](event%20log2.png)
 
 ## Alarm Demonstration
 
