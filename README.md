@@ -35,7 +35,8 @@ information, and event logging.
 )
 
 ### System Information
-![System Information](screenshots/system-info.png)
+![System Information](screenshots/system-info.png<img width="596" height="486" alt="image" src="https://github.com/user-attachments/assets/93538530-1910-412f-8b55-5a72f5e4d890" />
+)
 
 ### Event Log
 ![Event Log](screenshots/event-log.png<img width="667" height="486" alt="image" src="https://github.com/user-attachments/assets/246a4d7b-38f1-49af-b856-427cc1d776de" />
