@@ -1,0 +1,17 @@
+{
+  "device": "INDUSTRIAL-CTRL-01",
+  "timestamp_ms": 6325,
+  "temperature": 25.0,
+  "humidity": 50.0,
+  "adc_raw": 0,
+  "adc_filtered": 0,
+  "load_percent": 0,
+  "alarm": "NORMAL",
+  "dht_status": "OK",
+  "adc_status": "OK",
+  "alarm_led": false,
+  "buzzer": false,
+  "wifi": "CONNECTED",
+  "firmware": "3.1",
+  "status": "OK"
+}

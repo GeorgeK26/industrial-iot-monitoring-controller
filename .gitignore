@@ -1,0 +1,21 @@
+# Arduino
+*.elf
+*.hex
+*.bin
+*.map
+build/
+.arduino/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Wokwi/local
+wokwi.toml.local
+
+# Temporary
+*.tmp
+*.bak
