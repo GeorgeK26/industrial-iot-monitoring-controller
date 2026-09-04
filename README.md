@@ -23,7 +23,8 @@ information, and event logging.
 )
 
 ### Live Data
-![Live Data](screenshots/live-data.png)
+![Live Data](screenshots/live-data.png<img width="548" height="438" alt="image" src="https://github.com/user-attachments/assets/90a6961f-7e3f-4dfd-8e96-b4aa651ac2d5" />
+)
 
 ### Sensor Status
 ![Sensor Status](screenshots/sensor-status.png)
